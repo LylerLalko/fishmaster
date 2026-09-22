@@ -1,2 +1,2 @@
-# feeshmaster.github.io
-a game site that will be pretty nice(WIP)
+# lylerlalko.github.io/fishmaster
+completely stolen but thats ok haha lol

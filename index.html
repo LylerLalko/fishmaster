@@ -353,7 +353,10 @@
             
             // If they cancel or type the wrong password, loop back and ask again
             if (userInput === null || userInput !== correctPassword) {
+                alert("Incorrect password. Go away.");
                 askForPassword();
+            } else {
+                alert("Correct Password. Enjoy your stay.");
             }
         }
 

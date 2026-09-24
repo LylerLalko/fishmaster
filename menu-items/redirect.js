@@ -1,5 +1,5 @@
 function redirect() {
-  window.location.href = "https://github.com/feeshmaster/feeshmaster.github.io/issues";
+  window.location.href = "myinstants.com";
 }
 function redirect_animation(__) {
   document.getElementById("redirect-text").innerHTML = "Redirecting" + __;

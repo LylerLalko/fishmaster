@@ -4,23 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lyler</title>   
-    <script>
-        const correctPassword = "0601"; 
-
-        function askForPassword() {
-            let userInput = prompt("Enter password to access site:");
-            
-            // If they cancel or type the wrong password, loop back and ask again
-            if (userInput === null || userInput !== correctPassword) {
-                askForPassword();
-            }
-        }
-
-        // Give the browser 50ms to draw the text on the screen, then show the popup
-        window.onload = function() {
-            setTimeout(askForPassword, 50);
-        };
-    </script>
+    
     
 </head>
 <body>

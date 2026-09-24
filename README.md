@@ -1,2 +1,2 @@
 # lylerlalko.github.io/fishmaster
-completely stolen but thats ok haha lol
+I am lowk cooking at this bro
